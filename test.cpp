@@ -2,6 +2,7 @@
 
 int main()
 {
-	std::cout << "Test" << std::endl;
+	using namespace std;
+	cout << "Test" << endl;
 	return 0;
 }
